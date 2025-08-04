@@ -3,6 +3,7 @@
 		"name": "Tornado",
 		"unitType": "Melee",
 		"uniqueTo": "Barbarians",
+		"replaces": "Brute",
 		"movement": 3,
 		"strength": 99999,
 		"cost": 1,
