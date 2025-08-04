@@ -2,10 +2,9 @@
 	{
 		"name": "Tornado",
 		"unitType": "Melee",
-		"uniqueTo": "Barbarians",
 		"movement": 3,
 		"strength": 99999,
-		"cost": 9999999,
-		"uniques": ["Cannot attack","No movement cost to pillage","Can move immediately once bought","[+5]% chance to intercept air attacks","All healing effects doubled"],
+		"cost": 1,
+		"uniques": ["Limited to [10] per Civilization","[300]% Health from pillaging tiles","Cannot attack","No movement cost to pillage","Can move immediately once bought","[+5]% chance to intercept air attacks","All healing effects doubled"],
 	}
 ]
